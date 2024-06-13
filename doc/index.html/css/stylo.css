@@ -1,0 +1,68 @@
+.section-title{
+    font-size: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+★{
+    box-sizing: border-box;
+}
+.container1{
+    width: 1000px;
+    margin: 0 auto;
+}
+.container2{
+    width: 800px;
+    margin: 0 auto;
+}
+.header-left{
+    font-size: 23px;
+    padding-top: 40px;
+    margin-bottom: 5px;
+}
+.top-img{
+    height: 400px;
+    background-image: url(img/mainvisual.jpg)
+}
+.index-content{
+    padding: 40px;
+}
+.section-title{
+    font-size: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.text-content ol{
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid black;
+}
+.text-content li{
+    margin-bottom: 20px;
+}
+.moji{
+    font-size: 25px;
+}
+h2{
+    font-size: 25px;
+}
+.moji{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.yoshi{
+color:fuchsia;
+font-size: 20px;
+}
+.wani{
+    color: forestgreen;
+    font-size: 20px;
+}
+.moka{
+    color: #000;
+    text-decoration: none;
+    background-color: aliceblue;
+    transition: background-color 1s;
+}
+.moka:hover{background-color: aqua;}
